@@ -29,9 +29,9 @@ An open source tool to acquire a page of Facebook, using a "forensically-sound" 
 
 # Example Screenshot:
 
-![alt Screenshot 1](https://github.com/mattiareggiani/facquire/blob/master/image/example_1.png)
-![alt Screenshot 2](https://github.com/mattiareggiani/facquire/blob/master/image/example_2.png)
-![alt Screenshot 3](https://github.com/mattiareggiani/facquire/blob/master/image/example_3.png)
+![alt Screenshot 1](https://github.com/mattiareggiani/facquire/blob/master/image/example_0.png)
+![alt Screenshot 2](https://github.com/mattiareggiani/facquire/blob/master/image/example_1.png)
+![alt Screenshot 3](https://github.com/mattiareggiani/facquire/blob/master/image/example_2.png)
 
 # License
 GNU, version 3
